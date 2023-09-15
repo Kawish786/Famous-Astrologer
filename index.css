@@ -41,7 +41,7 @@ color: transparent;
     grid-gap:50px 30px ;
     place-items: center;
     background-color: black;
-    margin-top: 5px;
+    margin-top: 2px;
 }
 .about .div1{
     overflow: hidden;
@@ -81,4 +81,7 @@ color: transparent;
     justify-content: center;
     background-color: black;
     margin-top: 10px;
+}
+li{
+    color: whitesmoke;
 }
